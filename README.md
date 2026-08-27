@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/neha060705/Leetcode_daily_question/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neha060705/Leetcode_daily_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/neha060705/Leetcode_daily_question/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neha060705/Leetcode_daily_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neha060705/Leetcode_daily_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
