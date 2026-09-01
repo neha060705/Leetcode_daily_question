@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3110-score-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
