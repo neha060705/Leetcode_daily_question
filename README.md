@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2769-find-the-maximum-achievable-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/neha060705/Leetcode_daily_question/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
