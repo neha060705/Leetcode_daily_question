@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/neha060705/Leetcode_daily_question/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/neha060705/Leetcode_daily_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/neha060705/Leetcode_daily_question/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
