@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
 | [2942-find-words-containing-character](https://github.com/neha060705/Leetcode_daily_question/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neha060705/Leetcode_daily_question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -102,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
 | [3498-reverse-degree-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/neha060705/Leetcode_daily_question/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neha060705/Leetcode_daily_question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
+| [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
 ## Brainteaser
 |  |
 | ------- |
