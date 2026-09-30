@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/neha060705/Leetcode_daily_question/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/neha060705/Leetcode_daily_question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neha060705/Leetcode_daily_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
 ## Brainteaser
 |  |
