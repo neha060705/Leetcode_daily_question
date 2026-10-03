@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/neha060705/Leetcode_daily_question/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/neha060705/Leetcode_daily_question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/neha060705/Leetcode_daily_question/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2396-strictly-palindromic-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2769-find-the-maximum-achievable-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/neha060705/Leetcode_daily_question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
