@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [0856-score-of-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/neha060705/Leetcode_daily_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/neha060705/Leetcode_daily_question/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/neha060705/Leetcode_daily_question/tree/master/3110-score-of-a-string) |
@@ -161,9 +162,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/neha060705/Leetcode_daily_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/neha060705/Leetcode_daily_question/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/neha060705/Leetcode_daily_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/neha060705/Leetcode_daily_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
