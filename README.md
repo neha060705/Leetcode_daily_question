@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neha060705/Leetcode_daily_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/neha060705/Leetcode_daily_question/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neha060705/Leetcode_daily_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1470-shuffle-the-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/1470-shuffle-the-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/neha060705/Leetcode_daily_question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/neha060705/Leetcode_daily_question/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neha060705/Leetcode_daily_question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/neha060705/Leetcode_daily_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
