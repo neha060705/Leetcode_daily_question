@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/neha060705/Leetcode_daily_question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1470-shuffle-the-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/1470-shuffle-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neha060705/Leetcode_daily_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neha060705/Leetcode_daily_question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
