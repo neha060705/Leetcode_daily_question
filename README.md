@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/neha060705/Leetcode_daily_question/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/neha060705/Leetcode_daily_question/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neha060705/Leetcode_daily_question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/neha060705/Leetcode_daily_question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/neha060705/Leetcode_daily_question/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/neha060705/Leetcode_daily_question/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/neha060705/Leetcode_daily_question/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
