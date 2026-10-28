@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/neha060705/Leetcode_daily_question/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
 | [2396-strictly-palindromic-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/neha060705/Leetcode_daily_question/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/neha060705/Leetcode_daily_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/neha060705/Leetcode_daily_question/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/neha060705/Leetcode_daily_question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/neha060705/Leetcode_daily_question/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
