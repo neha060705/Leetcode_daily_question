@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/neha060705/Leetcode_daily_question/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/neha060705/Leetcode_daily_question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1470-shuffle-the-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/1470-shuffle-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/neha060705/Leetcode_daily_question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neha060705/Leetcode_daily_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/neha060705/Leetcode_daily_question/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/neha060705/Leetcode_daily_question/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Pigeonhole Principle
 |  |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/neha060705/Leetcode_daily_question/tree/master/2413-smallest-even-multiple) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
