@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/neha060705/Leetcode_daily_question/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1389-create-target-array-in-the-given-order](https://github.com/neha060705/Leetcode_daily_question/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/1470-shuffle-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/neha060705/Leetcode_daily_question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
+| [1389-create-target-array-in-the-given-order](https://github.com/neha060705/Leetcode_daily_question/tree/master/1389-create-target-array-in-the-given-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neha060705/Leetcode_daily_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/neha060705/Leetcode_daily_question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/neha060705/Leetcode_daily_question/tree/master/2326-spiral-matrix-iv) |
