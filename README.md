@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/neha060705/Leetcode_daily_question/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1389-create-target-array-in-the-given-order](https://github.com/neha060705/Leetcode_daily_question/tree/master/1389-create-target-array-in-the-given-order) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/neha060705/Leetcode_daily_question/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/neha060705/Leetcode_daily_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/neha060705/Leetcode_daily_question/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/neha060705/Leetcode_daily_question/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/neha060705/Leetcode_daily_question/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/neha060705/Leetcode_daily_question/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/neha060705/Leetcode_daily_question/tree/master/0067-add-binary) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2396-strictly-palindromic-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/neha060705/Leetcode_daily_question/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2769-find-the-maximum-achievable-number) |
