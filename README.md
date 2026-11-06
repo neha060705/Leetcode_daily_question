@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/neha060705/Leetcode_daily_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2396-strictly-palindromic-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/neha060705/Leetcode_daily_question/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/neha060705/Leetcode_daily_question/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/neha060705/Leetcode_daily_question/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/neha060705/Leetcode_daily_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/neha060705/Leetcode_daily_question/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
